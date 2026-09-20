@@ -4,6 +4,7 @@ gug is gonna:
 ^ go to chinese podcast 
 ^ listen a hsk 2-3 vid
 - add 5 sentences to vocab everyday
+^ complete reading too
 2. Learn how to use gits
 - watch 3 vidoes each week at least
 ^ try out the demonstrated projects
